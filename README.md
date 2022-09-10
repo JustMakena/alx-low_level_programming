@@ -1,2 +1,2 @@
-# alx-low_level_programming
-Lt's learn this
+alx-low_level_programming
+lets learn C programming

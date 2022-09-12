@@ -12,15 +12,14 @@
 
 int main(void)
 {
-int n;
-char ch;
-for (n = 48; n < 58; n++)
+int i;
+for (i = 48; i < 58; i++)
 {
-putchar(n);
+putchar(i);
 }
-for (ch = 97; ch <= 103; ch++) 
+for (i = 97; i <= 103; i++) 
 {
-putchar(ch);
+putchar(i);
 }
 putchar('\n');
 return (0);

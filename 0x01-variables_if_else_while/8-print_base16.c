@@ -1,11 +1,7 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 
 /**
-*main - prints all the numbers of base 16 in lowercase
-*
-*followed by new line
+*main - prints numbers between 0 to 9 and Letters between a to f
 *
 * Return : Always 0 (Success)
 */

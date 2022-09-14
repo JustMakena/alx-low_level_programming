@@ -1,3 +1,4 @@
+int _putchar(char C)
 #include "main.h"
 
   

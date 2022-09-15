@@ -6,7 +6,7 @@
 *
 * Return: no return
 */
-void prints_times_table(int n)
+void print_times_table(int n)
 {
 int a, b, op;
 if (n >= 0 && n <= 15)

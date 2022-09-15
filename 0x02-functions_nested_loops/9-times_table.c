@@ -17,7 +17,7 @@ int prod = j * i;
 if (j == 0)
 {
 _putchar('0');
-{
+}
 else if (prod <= 9)
 {
 _putchar(',');

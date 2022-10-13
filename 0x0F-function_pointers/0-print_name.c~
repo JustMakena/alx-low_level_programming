@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include "function_pointers.h"
+
+/**
+*Function that prints a name
+* Return: Nothing
+*/
+
+void print_name(char *name, void (*f)(char *))
+{
+printf("Hello my name is %s\n", name);
+}
+int Add(name != 0 && f != 0);
+{
+Return 0
+}
+char main()
+{
+void (*ptr)(char);
+ptr = PrintHello;
+ptr ("Hello my name is %s\n");
+}

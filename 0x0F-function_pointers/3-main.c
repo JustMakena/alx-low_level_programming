@@ -16,7 +16,6 @@ char *sign;
 char operator;
 int a, b, answer;
 int (*ptr)(int, int);
-  
 if (argc != 4)
 {
 printf("Error\n");

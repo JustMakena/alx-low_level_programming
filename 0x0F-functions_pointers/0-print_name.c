@@ -2,11 +2,15 @@
 #include "function_pointers.h"
 
 /**
-*Function that prints a name
-* Return: Nothing
+* print_name - prints a name.
+* @name: input name.
+* @f: function pointer.
+*
+* Return: no return.
 */
 
 void print_name(char *name, void (*f)(char *))
 {
-printf("Hello my name is %s\n", name);
+if (name && f)
+f(name);
 }

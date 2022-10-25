@@ -16,4 +16,3 @@ free(current->str);
 free(current);
 }
 }
-

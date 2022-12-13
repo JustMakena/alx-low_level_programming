@@ -1,0 +1,1 @@
+Creating a dynamic library with a varietyof listed functions

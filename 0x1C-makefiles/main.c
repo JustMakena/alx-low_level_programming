@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-    print_holberton();
+    print_hoberton();
     return (EXIT_SUCCESS);
 }/*school */
